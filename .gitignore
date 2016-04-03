@@ -1,0 +1,15 @@
+# UE4 Project directories to ignore
+/Binaries
+/DerivedDataCache
+/Intermediate
+/Saved
+/Build
+/Content/InfinityBladeAdversaries
+/Content/InfinityBladeEffects
+/Content/InfinityBladeGrassLands
+/Content/MixamoAnimPack
+/Content/AnimStarterPack
+/*.sdf
+/*.opensdf
+/*.suo
+*.VC.opendb
